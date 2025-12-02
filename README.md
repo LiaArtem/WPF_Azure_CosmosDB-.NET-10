@@ -1,4 +1,4 @@
-# WPF_Azure_CosmosDB-.NET-9
+# WPF_Azure_CosmosDB-.NET-10
 WPF project - Test project using Azure Cosmos database (SQL API).
 
 Створюємо базу даних Azure Cosmos DB на порталі:
